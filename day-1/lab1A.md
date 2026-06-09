@@ -1,8 +1,5 @@
 # Day 1 – AI Playground Evaluation Matrix
-
-**Mentor:** Praveen Adapa
-**Date:** June 2026
-
+Praveen Adapa
 ---
 
 ## Task 1 — Summarise
@@ -76,7 +73,7 @@
 | Tool       | Task 1 (Summarise) | Task 2 (Code) | Task 3 (Reason) | My Verdict                                                           |
 | ---------- | ------------------ | ------------- | --------------- | -------------------------------------------------------------------- |
 | ChatGPT    | 4.5                | 5             | 5               | All-rounder. Strong coding, reasoning, and structured responses.     |
-| Claude     | 5                  | 5             | 5               | Best for thorough writing, nuanced summaries, and careful reasoning. |
+| Claude     | 5                  | 5             | 5               | Best for thorough writing, Detailed summaries, and careful reasoning. |
 | Gemini     | 4.5                | 4             | 4.5             | Good for quick tasks and concise answers, but less detailed.         |
 | Perplexity | 4                  | 4.5           | 5               | Best when factual verification matters; solid reasoning performance. |
 
