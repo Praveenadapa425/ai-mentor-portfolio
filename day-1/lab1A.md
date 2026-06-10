@@ -90,10 +90,12 @@ Praveen Adapa
 
 ---
 
-# The 3-Sentence Conclusion
+# The 4-Sentence Conclusion
 
-> I would use **ChatGPT** for general tasks where I need a fast, well-structured response.
+> I would use ChatGPT for general tasks where I need a fast, well-structured response.
 
-> I would use **Claude** for long documents, careful reasoning, and high-stakes writing.
+> I would use Claude for long documents, careful reasoning, and high-stakes writing.
 
-> I would use **Perplexity** for any factual claim I cannot afford to get wrong.
+> I would use Perplexity for any factual claim I cannot afford to get wrong.
+
+> I would use Gemini when I need strong integration with Google's ecosystem, multimodal tasks, or help working across Google services such as Docs, Gmail, Drive, and Search.
